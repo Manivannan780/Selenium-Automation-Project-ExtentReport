@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Verification" duration-ms="12466" started-at="2020-09-03T18:38:47 IST" finished-at="2020-09-03T18:38:59 IST">
+    <groups>
+    </groups>
+    <test name="Main Menu Pages Verification" duration-ms="9946" started-at="2020-09-03T18:38:47 IST" finished-at="2020-09-03T18:38:57 IST">
+      <class name="project_Execution.Testcase1_Execution">
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:project_Execution.Testcase1_Execution@1f554b06]" name="TestCase1" duration-ms="9887" started-at="2020-09-03T18:38:47 IST" finished-at="2020-09-03T18:38:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- project_Execution.Testcase1_Execution -->
+    </test> <!-- Main Menu Pages Verification -->
+    <test name="Check out Page input Data" duration-ms="1294" started-at="2020-09-03T18:38:57 IST" finished-at="2020-09-03T18:38:58 IST">
+      <class name="project_Execution.Testcase2_Execution">
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:project_Execution.Testcase2_Execution@646d64ab]" name="TestCase2" duration-ms="1283" started-at="2020-09-03T18:38:57 IST" finished-at="2020-09-03T18:38:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- project_Execution.Testcase2_Execution -->
+    </test> <!-- Check out Page input Data -->
+    <test name="Lets Takl Tea Page Input" duration-ms="892" started-at="2020-09-03T18:38:58 IST" finished-at="2020-09-03T18:38:59 IST">
+      <class name="project_Execution.Testcase3_Execution">
+        <test-method status="PASS" signature="Testcase3()[pri:0, instance:project_Execution.Testcase3_Execution@4493d195]" name="Testcase3" duration-ms="887" started-at="2020-09-03T18:38:58 IST" finished-at="2020-09-03T18:38:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+      </class> <!-- project_Execution.Testcase3_Execution -->
+    </test> <!-- Lets Takl Tea Page Input -->
+    <test name="Tea Names Fetching" duration-ms="266" started-at="2020-09-03T18:38:59 IST" finished-at="2020-09-03T18:38:59 IST">
+      <class name="project_Execution.Testcase4_Execution">
+        <test-method status="PASS" signature="Browserlaunching()[pri:0, instance:project_Execution.Testcase4_Execution@34cd072c]" name="Browserlaunching" is-config="true" duration-ms="19691" started-at="2020-09-03T18:38:27 IST" finished-at="2020-09-03T18:38:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlaunching -->
+        <test-method status="PASS" signature="Testcase4()[pri:0, instance:project_Execution.Testcase4_Execution@34cd072c]" name="Testcase4" duration-ms="263" started-at="2020-09-03T18:38:59 IST" finished-at="2020-09-03T18:38:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase4 -->
+        <test-method status="PASS" signature="BrowserTermination()[pri:0, instance:project_Execution.Testcase4_Execution@34cd072c]" name="BrowserTermination" is-config="true" duration-ms="1084" started-at="2020-09-03T18:38:59 IST" finished-at="2020-09-03T18:39:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTermination -->
+      </class> <!-- project_Execution.Testcase4_Execution -->
+    </test> <!-- Tea Names Fetching -->
+  </suite> <!-- Page Verification -->
+</testng-results>

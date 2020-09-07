@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Page Verification">
+<test name="Main Menu Pages Verification">
+<classes>
+<class name="project_Execution.Testcase1_Execution">
+</class>
+</classes>
+</test>
+<test name="Check out Page input Data">
+<classes>
+<class name="project_Execution.Testcase2_Execution">
+</class>
+</classes>
+</test>
+<test name="Lets Takl Tea Page Input">
+<classes>
+<class name="project_Execution.Testcase3_Execution">
+</class>
+</classes>
+</test>
+<test name="Tea Names Fetching">
+<classes>
+<class name="project_Execution.Testcase4_Execution">
+</class>
+</classes>
+</test>
+</suite>

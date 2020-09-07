@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Shopping Project]">
+  <test thread-count="5" name="Shopping Main Page(failed)">
+    <classes>
+      <class name="project_Execution.Testcase1_Execution">
+        <methods>
+          <include name="TestCase1"/>
+          <include name="Browserlaunching"/>
+        </methods>
+      </class> <!-- project_Execution.Testcase1_Execution -->
+    </classes>
+  </test> <!-- Shopping Main Page(failed) -->
+</suite> <!-- Failed suite [Shopping Project] -->
