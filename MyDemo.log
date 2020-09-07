@@ -1,0 +1,20 @@
+2020-09-03 18:38:28 INFO  CommonFunctions:56 - Property File Reading
+2020-09-03 18:38:28 INFO  CommonFunctions:61 - Verifying the Browser Name
+2020-09-03 18:38:47 INFO  CommonFunctions:18 - Testcase 1 Object Creation
+2020-09-03 18:38:47 INFO  CommonFunctions:24 - Welcome Page Verification
+2020-09-03 18:38:48 INFO  CommonFunctions:36 - Passiong Page Verification
+2020-09-03 18:38:50 INFO  CommonFunctions:45 - Menu Page Verification
+2020-09-03 18:38:52 INFO  CommonFunctions:53 - Tea Page Verification
+2020-09-03 18:38:56 INFO  CommonFunctions:60 - Checkout Page Verification
+2020-09-03 18:38:57 INFO  CommonFunctions:65 - Main Page Verification Passed
+2020-09-03 18:38:57 INFO  CommonFunctions:14 - Testcase 2 Object Creation
+2020-09-03 18:38:57 INFO  CommonFunctions:20 - Check out Page Adding Inputs
+2020-09-03 18:38:58 INFO  CommonFunctions:36 - Testcase 2 Passed and  Verified
+2020-09-03 18:38:58 INFO  CommonFunctions:13 - Testcase 3 Object Creation
+2020-09-03 18:38:58 INFO  CommonFunctions:18 - Send Email Page Verification
+2020-09-03 18:38:59 INFO  CommonFunctions:41 - Testcase 3 Passed and Verified
+2020-09-03 18:38:59 INFO  CommonFunctions:17 - Testcase 4 Object Creation
+2020-09-03 18:38:59 INFO  CommonFunctions:22 - Fetching  all the Tea Names using List
+2020-09-03 18:38:59 INFO  CommonFunctions:28 - Testcase 4 Passed and Verified
+2020-09-03 18:38:59 INFO  CommonFunctions:78 - All Test Case Successfully Executed
+2020-09-03 18:38:59 INFO  CommonFunctions:79 - =========================================================
